@@ -1,6 +1,6 @@
 # **Sales Insight for AtliQ**
 
-In this project I analyzed *sales performance* for **AtliQ**, leveraging SQL for data preparation and Tableau for interactive visualizations. The primary goal was to identify key insights about sales and profitability to guide strategic decision-making.
+In this project I analyzed **sales performance** for *AtliQ*, leveraging SQL for data preparation and Tableau for interactive visualizations. The primary goal was to identify key insights about sales and profitability to guide strategic decision-making.
 
 ---
 
